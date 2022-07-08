@@ -1,0 +1,60 @@
+.inicio{
+    background-image: linear-gradient(#ecf0fc, #9d9df7, #5d5dfa);
+    font-family: Harlow Solid Italic;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+button{
+
+    color: blue;
+    border-radius: 20px;
+
+}
+
+button a{
+    text-decoration: none;
+}
+
+input{
+    border-radius: 15px;
+    color: blue;
+}
+
+h1{
+    font-family:Elephant;
+    text-align: center;
+    color: rgb(6, 6, 8);
+}
+
+h2{
+    font-family:Elephant;
+    padding: 10px;
+    
+    color: rgb(6, 6, 10);
+}
+
+.menu{
+    background-color: blue;
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(#ecf0fc, #9d9df7, #5d5dfa);
+
+}
+
+.datos-personales{
+    background-color: white;
+    border-radius: 20px;
+}
+
+p{
+    padding: 10px;
+}
+
+.parrafo{
+    text-decoration: overline;
+    text-align: center;
+}
